@@ -3,9 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=fff535&height=300&section=header&text=HI,%20I'm%20Yewon.&fontSize=90&fontColor=5a6148)
 
 
-<h4>😎 I’m currently learning Python, Algorithm and Computer Science in SSAFY 12th.</h4>
+<br><h4>😎 I’m currently learning Python, Algorithm and Computer Science in SSAFY 12th.</h4>
 <h4>💬 Ask me about anything.</h4>
-<h4>💛 How to reach me: cakejuuu@gmail.com</h4>
+<h4>💛 How to reach me: cakejuuu@gmail.com</h4> </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeahhh1e&layout=compact)](https://github.com/yeahhh1e/github-readme-stats)
 
