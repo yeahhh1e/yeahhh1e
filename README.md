@@ -7,7 +7,7 @@
 <h4>💬 Ask me about anything.</h4>
 <h4>💛 How to reach me: cakejuuu@gmail.com</h4> </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeahhh1e&layout=compact)](https://github.com/yeahhh1e/github-readme-stats)
+<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeahhh1e&layout=compact)](https://github.com/yeahhh1e/github-readme-stats)</br>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeahhh1e&show_icons=true&theme=yeblu)
