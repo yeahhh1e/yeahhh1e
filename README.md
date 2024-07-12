@@ -1,3 +1,4 @@
+<div align=center>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=fff535&height=300&section=header&text=HI,%20I'm%20Yewon.&fontSize=90&fontColor=5a6148)
 
 
@@ -21,3 +22,5 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeahhh1e&show_icons=true&theme=yeblu)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeahhh1e&count_bg=%23F3EA00&title_bg=%23367C20&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
