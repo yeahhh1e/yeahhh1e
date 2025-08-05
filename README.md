@@ -1,8 +1,8 @@
 <div align=center>
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=fff535&height=300&section=header&text=HI%20❕%20%20I'm%20Yewon%20😎&fontSize=50&fontColor=5a6148)
-<br><h4>🤩 I’m currently learning Python, Algorithm and Computer Science.</h4>
-<h4>🎓 SSAFY 12th (2024.07 ~ now)</h4>
+<br><h4>🤩 I’m currently learning Java, Python, Algorithm and Computer Science.</h4>
+<h4>🎓 SSAFY 12th (2024.07 ~ 2025.06)</h4>
 <h4>💬 Ask me about anything.</h4>                                                          
 <h4>💛 How to reach me: cakejuuu@gmail.com</h4></br>
 
