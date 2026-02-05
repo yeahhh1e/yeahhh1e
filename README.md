@@ -49,7 +49,8 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yeahhh1e&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats-ten-theta-24.vercel.app/api?username=yeahhh1e&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeahhh1e&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats-ten-theta-24.vercel.app/api/top-langs/?username=yeahhh1e&layout=compact)
+
 
