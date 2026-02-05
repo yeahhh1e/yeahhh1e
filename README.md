@@ -42,14 +42,16 @@
 ---
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&theme=yeblu)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats-ten-theta-24.vercel.app/api?username=yeahhh1e&show_icons=true)
+<br>
+<img src="https://github-readme-stats-ten-theta-24.vercel.app/api?username=yeahhh1e&show_icons=true&theme=yeblu&hide_rank=true" />
+</br>
 
 ![Top Langs](https://github-readme-stats-ten-theta-24.vercel.app/api/top-langs/?username=yeahhh1e&layout=compact)
 
